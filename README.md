@@ -13,6 +13,7 @@ These are a series of projects/exercises from the [Odin Project](): [A Bit of Co
 - [x] Learnt how to measure efficiency of code from Time and Space complexity using the Big O notation
 - [x] Learnt what are stacks and queues
 - [x] Learnt how to implement a Linked List data structure in Javscript
+- [x] Learnt how to implement a Hash Map data structure in Javscript
 
 ## Tech Stack
 
